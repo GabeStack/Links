@@ -165,3 +165,9 @@ body.dark footer{
   color: var(--color-text-primary);
   border-top: 2px solid rgba(250, 250, 250, 0.2);
 }
+
+@media (min-width: 1440px) {
+  footer {
+    margin-top: 150px;
+  }
+}
