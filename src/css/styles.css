@@ -169,6 +169,11 @@ body.dark footer {
     margin-top: 550px;
   }
 }
+@media (min-width: 1200px){
+  footer {
+    margin-top: 50px;
+  }
+}
 @media (min-width: 1440px) {
   footer {
     margin-top: 150px;
